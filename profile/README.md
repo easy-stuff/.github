@@ -4,6 +4,7 @@
 
 ### Tools
 
+- `easy-wordcloud`: Create word cloud images easily and quickly from text files, with mask support, filtering, and a flexible command-line interface.
 - `easy-docker`: Aliases for common docker commands.
 - `better-copy`: A simple tool for copying and moving files with progress using rsync.
 - `easy-ffmpeg`: A wrapper for ffmpeg, to easily deal with videos and other types of media files. Works only with NVIDIA GPUs. 
